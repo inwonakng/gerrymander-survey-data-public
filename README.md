@@ -1,6 +1,6 @@
 # Human Perception of Gerrymandering Dataset
 
-This directory contains a public, de-identified data used in the analysis of
+This directory contains a public, de-identified data used in the analysis of human perception of Gerrymandering. The goal of this project is to simulate district maps and the election outcomes based them to collect human responses for which maps are more "fair". 
 
 ## Files
 
@@ -13,7 +13,7 @@ This directory contains a public, de-identified data used in the analysis of
 
 ## De-identification
 
-Original `userid` values are replaced with sequential `participant_id` values. Original survey response keys, MTurk Worker IDs, HIT IDs, assignment IDs, payment records, approval statuses, and receipt documents are not included in this export. Email-like strings and MTurk-looking worker IDs in free-text fields are redacted.
+Original `userid` values are replaced with sequential `participant_id` values. Original survey response keys, MTurk Worker IDs, HIT IDs, assignment IDs, payment records, approval statuses, and receipt documents are not included in this export. Free response strings and MTurk worker IDs in free-text fields are redacted.
 
 ## Map Layouts
 
